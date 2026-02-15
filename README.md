@@ -47,6 +47,10 @@ If you find our paper useful in your research, please cite our paper:
 }
 ```
 
+# Contact
+
+For questions, feedback, or collaboration inquiries, please contact: `daeyongkwon@snu.ac.kr`
+
 # License
 
 The code is released under the **MIT License**.
