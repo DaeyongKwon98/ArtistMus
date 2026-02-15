@@ -1,7 +1,19 @@
 # 🎵 ArtistMus: A Globally Diverse, Artist-Centric Benchmark for Retrieval-Augmented Music Question Answering
 
-Official repository for the paper: 
+Official repository for the paper: </br>
 **ArtistMus: A Globally Diverse, Artist-Centric Benchmark for Retrieval-Augmented Music Question Answering, accepted at LREC 2026**.
+
+# Overview
+
+Large Language Models (LLMs) struggle with music-related question answering due to limited music knowledge in pretraining data.
+
+We introduce:
+- **MusWikiDB** — a vector database built from 3.2M passages across 144K music-related Wikipedia pages.
+- **ArtistMus** — a multiple-choice QA benchmark of 1,000 questions covering 500 diverse artists.
+
+Our MusWikiDB database outperforms general Wikipedia corpus in both accuracy (+6 pp) and speed (40% faster) in retrieval augmented generation (RAG) situation.
+
+# Paper and Dataset
 
 <div align="left" style="display: flex; justify-content: center; margin-top: 10px; gap: 6px; flex-wrap: wrap;">
   <a href="https://arxiv.org/abs/2512.05430">
@@ -27,4 +39,6 @@ If you find our paper useful in your research, please cite our paper:
 
 # License
 
-This code and dataset are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+The code is released under the **MIT License**.
+</br>
+The dataset is released under the **CC BY 4.0 License**.
