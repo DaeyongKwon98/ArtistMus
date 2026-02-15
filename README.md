@@ -8,9 +8,9 @@ Official repository for the paper:
   <a href="https://arxiv.org/abs/2512.05430">
     <img src="https://img.shields.io/badge/arXiv-2512.05430-AD1C18.svg">
   </a>
-  <a href="[https://drive.google.com/drive/folders/1YVBWTazYO7h8bZC8oVQMljLjUIM0eI](https://drive.google.com/drive/folders/1YVBWTazYO7h8bZC8oVQMljLjUIM0eI7I?usp=sharing)7I">
-    <img src="https://img.shields.io/badge/Dataset-Download-2E8B57.svg">
-  </a>
+  <a href="https://drive.google.com/drive/folders/1YVBWTazYO7h8bZC8oVQMljLjUIM0eI7I?usp=sharing">
+  <img src="https://img.shields.io/badge/Dataset-Download-2E8B57.svg">
+</a>
 </div>
 
 # 📖 Citation
